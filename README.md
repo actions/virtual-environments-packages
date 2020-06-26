@@ -1,3 +1,3 @@
 # virtual-environments-packages
-This repository will (soon!) contain the code and scripts that we use to build tool packages used in [virtual-environments](https://github.com/actions/virtual-environments).  
+This repository stores NPM packages with cached tools (Ruby, Python, Boost). The packages are prepared for and only permitted for use by actions virtual-environments and setup actions.
 Packages are uploaded and attached to the [GitHub Package Registry](https://github.com/actions/virtual-environments-packages/packages).
